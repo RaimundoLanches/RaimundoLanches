@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Me chamo José Pedro porem todos me chamam de Raimundo e estou começando na area Dev.
 <!--
 **RaimundoLanches/RaimundoLanches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
